@@ -1,3 +1,4 @@
+https://anaconda.org/pytorch/pytorch-cpu/1.1.0/download/win-64/pytorch-cpu-1.1.0-py3.7_cpu_1.tar.bz2
 fastai==2.5.3
 Flask==1.1.2
 numpy==1.20.3
