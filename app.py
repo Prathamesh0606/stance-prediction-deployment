@@ -30,4 +30,4 @@ def predict():
     return render_template('prediction.html', data=ans)
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0')
+    app.run(threaded=True, port=5000)
